@@ -18,9 +18,10 @@
   - BitLocker comes on recent editions of Windows Operating System (OS) by default. The key features of BitLocker for our purposes are: Full-Disk Encryption (FDE; provides comprehensive protection against unauthorized access to your data at rest.), Pre-Boot Authentication(before your O/S loads, BitLocker requies the user to provide authentication credentials. This ensures the user accessing the system is authorized.), Recovery Keys (Recovery Keys are provided incase a user forgets their password/personal identifiable number (PIN).), and overall **Data Protection**.
   - BitLocker Set-up:
     - On Windows 11, right-click the start button (windows icon) on your task bar.
-    - Scroll Down to "Related." Click on BitLocker and follow the task wizard.  
+    - Scroll Down to "Related." Click on BitLocker and follow the task wizard.
+      
  ![bitlocker1](https://github.com/ryangreggw/Basic-Digital-Security/assets/25268281/33650c6e-fd87-4246-979a-c48f09602cbc)
-Scroll down to "Related" and click on BitLocker:  
+
 ![bitlocker2](https://github.com/ryangreggw/Basic-Digital-Security/assets/25268281/86c4deac-123c-4061-8f46-7a02cab9682e)
 
 - ***DISABLING AUTO-PLAY FEATURE FOR PLUGGED IN DEVICES:***
@@ -33,5 +34,7 @@ Scroll down to "Related" and click on BitLocker:
     
 ![control panel](https://github.com/ryangreggw/Basic-Digital-Security/assets/25268281/6f7f999a-e2b8-4696-bf7a-00b07c397533)
 ![autopplay](https://github.com/ryangreggw/Basic-Digital-Security/assets/25268281/beabc55d-94f6-4425-914f-2ddc81c7f903)
+
+browsers, vpns, disabling guest account, blocking ports: (21 -ftp, 23 - telnet, 80 - http; 3389 - rdp; 2323 - ?)
 
 
