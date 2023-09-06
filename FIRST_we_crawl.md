@@ -1,3 +1,4 @@
+## END-POINT USER SECURITY
 ### #1: ROUTERS
 - ***PHYSICAL INSPECTION***
   - Always begin with a physical inspection of cables, ports, various plug-ins. With regards to a router, ensure that the power supply unit (PSU) is plugged in all the way to the device/wall outlet and that the antennas are screwed in completely.  
