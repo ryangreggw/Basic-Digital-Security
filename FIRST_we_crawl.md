@@ -36,6 +36,6 @@
 ![control panel](https://github.com/ryangreggw/Basic-Digital-Security/assets/25268281/6f7f999a-e2b8-4696-bf7a-00b07c397533)
 ![autopplay](https://github.com/ryangreggw/Basic-Digital-Security/assets/25268281/beabc55d-94f6-4425-914f-2ddc81c7f903)
 
-browsers, vpns, disabling guest account, blocking ports: (21 -ftp, 23 - telnet, 80 - http; 3389 - rdp; 2323 - ?)
+browsers, vpns, disabling guest account, blocking ports: (21 -ftp, 23 - telnet, 80 - http; 3389 - rdp; 2323 - ?), disable WPS on devices connected to your network.
 
 
